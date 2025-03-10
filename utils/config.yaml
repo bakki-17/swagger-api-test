@@ -1,0 +1,12 @@
+
+BASE_URL: "http://localhost:8091"
+headers:
+
+endpoints:
+  brand: "/brands"
+  cart: "/cart"
+  category: "/categories"
+  contact: "/contacts"
+
+  
+

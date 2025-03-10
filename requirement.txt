@@ -1,0 +1,5 @@
+pytest
+requests
+pyyaml
+faker
+requests-oauthlib
